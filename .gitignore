@@ -1,0 +1,22 @@
+# Папки сборки
+build/
+build-*/
+cmake-build-*/
+*.pro.user
+*.pro.user.*
+
+# Артефакты сборки
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# Qt Creator
+*.autosave
+.qmake.stash
+Makefile

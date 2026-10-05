@@ -1,9 +1,0 @@
-# ninja log v6
-7	913	8118679510916673	signals_autogen/timestamp	9e85e82022499405
-7	913	8118679510916673	signals_autogen/mocs_compilation.cpp	9e85e82022499405
-7	913	8118679510916673	D:/Qt_Projects/Signals/signals/build/Desktop_Qt_6_7_2_MinGW_64_bit_Disk_D-Debug/signals_autogen/timestamp	9e85e82022499405
-7	913	8118679510916673	D:/Qt_Projects/Signals/signals/build/Desktop_Qt_6_7_2_MinGW_64_bit_Disk_D-Debug/signals_autogen/mocs_compilation.cpp	9e85e82022499405
-923	3364	8118679512232635	CMakeFiles/signals.dir/signals_autogen/mocs_compilation.cpp.obj	6af34f4196f2679c
-941	3481	8118679512409368	CMakeFiles/signals.dir/main.cpp.obj	1aa9d0a3b04faeca
-964	3522	8118679512581366	CMakeFiles/signals.dir/mainwindow.cpp.obj	6ec7f34593556421
-3525	4074	8118679538253579	signals.exe	d07aecad26d02908
