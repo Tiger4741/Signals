@@ -1,0 +1,2 @@
+add_library(dsp_core INTERFACE)
+target_include_directories(dsp_core INTERFACE include)
